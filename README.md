@@ -5,7 +5,7 @@ Poetech太宰府は、太宰府で収集した俳句・短歌のライブラリ�
 （令和6年度　太宰府市学生まちづくり課題解決プロジェクト提案　採択事業）
 
 Site：https://sites.google.com/view/poetech-dazaifu
-
+WEBアプリリンク:https://app-5f92b294-d806-45b4-8864-4eca7807af15.ingress.apprun.sakura.ne.jp/
 ## 📌 主な機能
 
 - **キーワード検索**: 任意の単語で俳句・短歌を検索
